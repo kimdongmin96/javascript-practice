@@ -1,7 +1,5 @@
 # React Practice
 
-## react 실습
-<br>
 ### react를 사용 시 데이터바인딩이 간편해진다.
 
 ```javascript
@@ -15,6 +13,7 @@ hello 변수에 안녕하세요를 저장 후
 ```
 
 <hr>
+
 ### 자주 변경되는 데이터는 useState로 정의
 
 ```javascript
