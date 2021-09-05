@@ -14,6 +14,7 @@ hello 변수에 안녕하세요를 저장 후
 <h1> { hello } </h1>
 ```
 
+<hr>
 자주 변경되는 데이터는 useState로 정의<br>
 
 ```javascript
